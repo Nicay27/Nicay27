@@ -1,4 +1,4 @@
-## Olá! Eu sou a Nicay27 
+## Olá! Eu sou Karoline Cruz
 
 Estudante de front-end 🚀
 
