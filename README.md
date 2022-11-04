@@ -1,6 +1,5 @@
 ## Olá! Eu sou Karoline Cruz
 
-Estudante de front-end 🚀
 
 <div align="center">
   <a href="https://github.com/Nicay27">
